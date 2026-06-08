@@ -22,9 +22,13 @@ Open to entry-level Data Analyst opportunities.
 | Customer Churn | ML, Power BI | 🔜 Coming Soon |
 
 ## 🎓 Certifications
-- Kaggle Python Certificate (In Progress)
-- Kaggle Pandas Certificate (In Progress)
-- Kaggle SQL Certificate (In Progress)
+- ✅ Python Certificate — Udemy
+- ✅ IoT Certificate — SWAYAM NPTEL
+- 🔜 Data Science Certificate — DataTeach.ai 
+  (In Progress)
+- 🔜 Kaggle Python Certificate (In Progress)
+- 🔜 Kaggle Pandas Certificate (In Progress)
+- 🔜 Kaggle SQL Certificate (In Progress)
 
 ## 📫 Connect With Me
 - 📍 Location: Hyderabad, India
