@@ -28,10 +28,10 @@ Open to entry-level Data Analyst opportunities.
 - ✅ IoT Certificate — SWAYAM NPTEL
 - 🔜 Data Science Certificate — DataTeach.ai 
   (In Progress)
-- 🔜 Kaggle Python Certificate (In Progress)
-- 🔜 Kaggle Pandas Certificate (In Progress)
-- 🔜 Kaggle SQL Certificate (In Progress)
+
 
 ## 📫 Connect With Me
 - 📍 Location: Hyderabad, India
 - 🏆 Kaggle: https://www.kaggle.com/tarraanuradha
+- 💼 LinkedIn: https://www.linkedin.com/in/tarra-anuradha-702011263 
+
