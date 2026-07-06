@@ -20,6 +20,8 @@ Open to entry-level Data Analyst opportunities.
 | IPL Analysis | Python, Seaborn | 🔜 Coming Soon |
 | House Price Prediction | ML, Scikit-learn | 🔜 Coming Soon |
 | Customer Churn | ML, Power BI | 🔜 Coming Soon |
+| Primeor Solutions Internship | Excel, SQL, Power BI | ✅ [View Project](https://github.com/tarraanuradha/Data_analyst_portfolio) |
+
 
 ## 🎓 Certifications
 - ✅ Python Certificate — Udemy
