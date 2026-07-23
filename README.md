@@ -30,7 +30,7 @@ Open to entry-level Data Analyst opportunities.
 
 ## 📫 Connect With Me
 - 📧 Email: tarraanuradha3@gmail.com
-- 📄 Resume: 
+- 📄 Resume: https://github.com/tarraanuradha/data-Science-portfolio/blob/main/Tarra_Anuradha_%20resume%20_%20DA.pdf
 - 📍 Location: Hyderabad, India
 - 🏆 Kaggle: https://www.kaggle.com/tarraanuradha
 - 💼 LinkedIn: https://www.linkedin.com/in/tarra-anuradha-702011263 
