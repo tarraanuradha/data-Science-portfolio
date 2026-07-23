@@ -3,6 +3,7 @@
 ## 👋 About Me
 Aspiring Data Analyst from Hyderabad, India.
 Currently learning Data Science at DataTeach.ai
+MSc Computer Science (CGPA 8.94) | Hands-on experience with Excel, SQL & Power BI as a Data Analyst Intern
 Open to entry-level Data Analyst opportunities.
 
 ## 🛠️ Skills
@@ -16,12 +17,9 @@ Open to entry-level Data Analyst opportunities.
 ## 📁 Projects
 | Project | Tools | Status |
 |---------|-------|--------|
-| Titanic Analysis | Python, Pandas | 🔜 Coming Soon |
-| IPL Analysis | Python, Seaborn | 🔜 Coming Soon |
-| House Price Prediction | ML, Scikit-learn | 🔜 Coming Soon |
 | Customer Churn | ML, Power BI | 🔜 Coming Soon |
 | Primeor Solutions Internship | Excel, SQL, Power BI | ✅ [View Project](https://github.com/tarraanuradha/Data_analyst_portfolio) |
-
+| CodeAlpha Internship | Python, Pandas, Matplotlib, Seaborn | ✅ [View Project](https://github.com/tarraanuradha/CodeAlpha_DataAnalytics) |
 
 ## 🎓 Certifications
 - ✅ Python Certificate — Udemy
@@ -31,6 +29,8 @@ Open to entry-level Data Analyst opportunities.
 
 
 ## 📫 Connect With Me
+- 📧 Email: tarraanuradha3@gmail.com
+- 📄 Resume: 
 - 📍 Location: Hyderabad, India
 - 🏆 Kaggle: https://www.kaggle.com/tarraanuradha
 - 💼 LinkedIn: https://www.linkedin.com/in/tarra-anuradha-702011263 
